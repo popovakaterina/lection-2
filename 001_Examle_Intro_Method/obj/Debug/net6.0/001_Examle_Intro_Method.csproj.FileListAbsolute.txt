@@ -1,0 +1,15 @@
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\bin\Debug\net6.0\001_Examle_Intro_Method.exe
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\bin\Debug\net6.0\001_Examle_Intro_Method.deps.json
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\bin\Debug\net6.0\001_Examle_Intro_Method.runtimeconfig.json
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\bin\Debug\net6.0\001_Examle_Intro_Method.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\bin\Debug\net6.0\001_Examle_Intro_Method.pdb
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.csproj.AssemblyReference.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.AssemblyInfoInputs.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.AssemblyInfo.cs
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.csproj.CoreCompileInputs.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\refint\001_Examle_Intro_Method.dll
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.pdb
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\001_Examle_Intro_Method.genruntimeconfig.cache
+D:\p-kat\Documents\Личное\Ит специалист\Введение в программирование\Лекция 2\Lection 2\001_Examle_Intro_Method\obj\Debug\net6.0\ref\001_Examle_Intro_Method.dll
